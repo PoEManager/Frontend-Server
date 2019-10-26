@@ -1,0 +1,16 @@
+{
+    "name": "poe-manager-frontend-server",
+    "version": "0.0.0",
+    "description": "The frontend server of PoE Manager.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Dennis Franz",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PoEManager/Frontend-Server"
+    },
+    "license": "MIT"
+}
